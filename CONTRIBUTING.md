@@ -92,7 +92,7 @@ available at [http://contributor-covenant.org/version/1/4][version]
 [version]: http://contributor-covenant.org/version/1/4/
 
 
-### Copyright
+## Copyright
 
 Contributions to this project from any person or entity are assumed to be made in acceptance and agreement to the following terms and conditions. Except for the license granted herein, You reserve all right, title, and interest in and to Your Contributions.
 
