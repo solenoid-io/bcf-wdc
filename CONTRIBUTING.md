@@ -96,7 +96,7 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 Contributions to this project from any person or entity are assumed to be made in acceptance and agreement to the following terms and conditions. Except for the license granted herein, You reserve all right, title, and interest in and to Your Contributions.
 
-Definitions.
+### Definitions.
 
 "You" (or "Your") shall mean the copyright owner or legal entity authorized by the copyright owner that is making Contributions. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
